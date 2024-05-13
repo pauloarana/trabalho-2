@@ -1,9 +1,23 @@
 .
 
 @import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
-
 :root{
     --branco: white;
     --cor-de-fundo: beige;
     --fundo-senha: blue;
+    --fundo-texto: #363636;
+    --borda:#DCDCDC;
+    --roboto:"roboto", sans-serif;
+    --roboto-mono: "roboto mano", monospace;
 }
+
+*{
+    font-weight: 400;
+}
+
+body{
+    color:var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--roboto);
+}
+

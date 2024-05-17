@@ -21,3 +21,33 @@ body{
     font-family: var(--roboto);
 }
 
+.titulo-principal{
+    font-family: var(--roboto-mono);
+    font-size: 32px;
+}
+
+.titulo-secundatio{
+    font-size: 24px;
+}
+
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 88px;
+}
+
+.conteudo-senha{
+    margin-top: 88px;
+    background: var(--fundo-senha);
+    padding: 24px;
+    border-bottom: 6px solid var(--borda);
+}
+
+#campo-senha{
+    background-color: (--fundo-senha);
+    border:nome;
+}
+
+#campo-senha{
+    border:nome;
+    color: var(--branco);
+}

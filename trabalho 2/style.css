@@ -50,4 +50,24 @@ body{
 #campo-senha{
     border:nome;
     color: var(--branco);
+    font-family: VAR(--roboto-mono);
+    font-size: 48px;
+    width: 78%;
 }
+
+#campo-senha:focus{
+    outline: nome;
+}
+
+.conteudo{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.parametro{
+    background-color: var(--fundo-texto);
+    border: 2px solid var(--borda);
+    margin-top: 32px;
+    padding: 24px;
+}
+

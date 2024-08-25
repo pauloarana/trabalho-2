@@ -46,3 +46,18 @@ if (checkbox[1].checked) {
 > OUTLINE
 alfabeto alfabeto + letrasMinusculas;
 }
+if (checkbox[2].checked) {
+ancar.svg
+alfabeto alfabeto numeros
+if (checkbox[3].checked) (
+alfabeto alfabeto simboloss
+}
+let senha
+for (let 10514 tamanhosenhas 1++) {
+let numeroAleatorio Math.random() alfabeto.length;
+numeroAleatorie Math.floor(numeroAleatorio)s senha senha + alfabeto [numeroAleatorio);
+camposenha.value = senhas classificasenha(alfabeto.length);
+function classificaSenha(tamanhoAlfabeto) {
+let entropia tamanhosenha Math.log2(tamanhoAlfabeto); console.log(entropia);
+forcasenha.classList.remove('fraca', 'media', 'forte');
+if (entronias 571/

@@ -23,4 +23,26 @@ numeroSenha.textContent = tamanhoSenha;
 geraSenha();
 > TIMELINE
 }
-function aumenta Tamanho()
+function aumenta Tamanho() {
+  if (tamanhoSenha < 20) {
+# style.css
+// tamanhoSenha tamanhoSenha+1;
+trancar.svg
+tamanho Senha++;
+}
+numeroSenha.textContent = tamanhoSenha;
+geraSenha();
+}
+for (i = 0; i < checkbox.length; i++) {
+checkbox[i].onclick = geraSenha;
+}
+geraSenha();
+function geraSenha() {
+let alfabeto = '';
+if (checkbox[0].checked) {
+alfabeto alfabeto + letrasMaiusculas;
+}
+if (checkbox[1].checked) {
+> OUTLINE
+alfabeto alfabeto + letrasMinusculas;
+}

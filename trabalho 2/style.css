@@ -133,6 +133,28 @@ label{
  }
  .fraca{
     width: 25%;
-    background-color: bisque;
+    background-color: #E71B32;
  }
+.media{
+   background-color:
+   width: 50%;
+    } 
+.forte {
+   background-color:
+   width: 100%;  
+}
+
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (min-width: 768px){
+    .parametro-coluna_senha{
+        flex-direction: row;
+    } 
+ }
+    
+    
+    
  
